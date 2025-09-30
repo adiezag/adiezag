@@ -1,4 +1,4 @@
-## Hi, I'm Antonio 👋
+## 👋 Hi, I'm Antonio.
 
 Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 
@@ -17,6 +17,7 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 📊 GitHub Stats
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiezag&count_private=true&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **adiezag/adiezag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
