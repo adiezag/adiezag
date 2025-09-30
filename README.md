@@ -7,7 +7,15 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 🚀 Recently deployed: [Meal planner](https://143aacb0-7949-4272-8999-8f68b30d84d2.e1-us-east-azure.choreoapps.dev) </br>
 💼 Seeking software engineering roles </br>
 
-
+## 💻 Tech Stack
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiezag&count_private=true&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 <!--
