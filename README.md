@@ -4,7 +4,7 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 
 🎓 Studied Computer Science at Hunter College, New York </br>
 🛢️ Petroleum Engineering - [Espol] </br>
-🚀 Recently deployed: [Meal planner](https://143aacb0-7949-4272-8999-8f68b30d84d2.e1-us-east-azure.choreoapps.dev) </br>
+🚀 Recently deployed: [Meal planner](https://github.com/adiezag/django-demo) </br>
 💼 Seeking software engineering roles </br>
 
 ## 💻 Tech Stack
