@@ -16,6 +16,8 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
+
 
 ## 📊 GitHub Stats
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiezag&count_private=true&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
