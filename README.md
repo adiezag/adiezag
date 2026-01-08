@@ -10,11 +10,11 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 ## 🚀 Recent Deployments
 
 - **Lift Tracker** – Full-stack web app for tracking workouts and lifting progress. [GitHub Repo](https://github.com/adiezag/lift-tracker)
-<img src="img1.png" alt="Lift Tracker Screenshot" width="400"/>
-![app screenshot](img1.png)  
+<p align="center"><img src="img1.png" alt="Lift Tracker Screenshot" width="400"/></p>
+ 
 - **AI Meal Planner** – Django-based meal planning app with AI-powered suggestions. [GitHub Repo](https://github.com/adiezag/django-demo)
-<img src="img2.png" alt="AI Meal Planner Screenshot" width="400"/>
-![app screenshot](img2.png)  
+<p align="center"><img src="img2.png" alt="AI Meal Planner Screenshot" width="400"/></p>
+
 - **Gym Calculator** – Simple app to calculate lift percentage progress and bar weight. [GitHub Repo](https://github.com/adiezag/gym-app)
 
 
