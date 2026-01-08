@@ -18,13 +18,15 @@ Aspiring Software Engineer with a background in Petroleum Engineering.</br>
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
-
+<!--
 ## 📊 GitHub Stats
+
+
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiezag&count_private=true&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Antonio's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiezag)](https://github.com/adiezag/github-readme-stats)
 
-<!--
+
 **adiezag/adiezag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
